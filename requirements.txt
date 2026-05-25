@@ -1,0 +1,23 @@
+# Core
+pandas>=1.5
+numpy>=1.23
+
+# YouTube API
+google-api-python-client>=2.0
+
+# Network analysis
+networkx>=3.0
+python-louvain>=0.16
+scipy>=1.10
+
+# NLP — sentiment (RoBERTa)
+transformers>=4.30
+torch>=2.0
+
+# NLP — topics + classifier
+gensim>=4.3
+scikit-learn>=1.3
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.12
